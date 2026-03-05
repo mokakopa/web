@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- SEO Básico -->
+    <title>mokakopa</title>
+    <meta name="description" content="Monica Kopatschek (San Francisco, 1993). Pintura figurativa donde se cruzan poder, intimidad y ficción. MFA San Francisco Art Institute.">
+    <meta name="keywords" content="mokakopa, monica kopatschek, pintura figurativa, arte contemporáneo, portfolio, grabado, acuarela, performance, Barcelona, San Francisco">
+    <meta name="author" content="meowrhino.studio">
+    <meta name="robots" content="index, follow">
+    <meta name="language" content="Spanish">
+
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://www.mokakopa.com/">
+    <meta property="og:title" content="mokakopa">
+    <meta property="og:description" content="Monica Kopatschek (San Francisco, 1993). Pintura figurativa donde se cruzan poder, intimidad y ficción.">
+    <meta property="og:image" content="https://www.mokakopa.com/data/patoCeramics/carasol/1.jpg">
+    <meta property="og:locale" content="es_ES">
+    <meta property="og:locale:alternate" content="en_US">
+    <meta property="og:locale:alternate" content="ca_ES">
+
+    <!-- Twitter -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:url" content="https://www.mokakopa.com/">
+    <meta name="twitter:title" content="mokakopa">
+    <meta name="twitter:description" content="Monica Kopatschek (San Francisco, 1993). Pintura figurativa donde se cruzan poder, intimidad y ficción.">
+    <meta name="twitter:image" content="https://www.mokakopa.com/data/patoCeramics/carasol/1.jpg">
+
+    <!-- Canonical URL -->
+    <link rel="canonical" href="https://www.mokakopa.com/">
+
+    <!-- Favicon / Navicon -->
+    <link rel="icon" type="image/png" href="data/navicon.png">
+    <link rel="apple-touch-icon" href="data/navicon.png">
+
+    <!-- Stylesheet -->
+    <link rel="stylesheet" href="css/style.css">
+
+    <!-- Structured Data / Schema.org -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "WebSite",
+      "name": "mokakopa",
+      "url": "https://www.mokakopa.com/",
+      "description": "Monica Kopatschek (San Francisco, 1993). Pintura figurativa: poder, intimidad y ficción.",
+      "author": {
+        "@type": "Person",
+        "name": "Monica Kopatschek",
+        "birthPlace": "San Francisco",
+        "birthDate": "1993",
+        "jobTitle": "Artista visual",
+        "alumniOf": [
+          {
+            "@type": "CollegeOrUniversity",
+            "name": "San Francisco Art Institute"
+          },
+          {
+            "@type": "CollegeOrUniversity",
+            "name": "California College of the Arts"
+          },
+          {
+            "@type": "CollegeOrUniversity",
+            "name": "Universitat de Barcelona"
+          }
+        ]
+      },
+      "creator": {
+        "@type": "Organization",
+        "name": "meowrhino.studio",
+        "url": "https://meowrhino.studio"
+      },
+      "inLanguage": ["es", "en", "ca"]
+    }
+    </script>
+</head>
+<body>
+
+    <!-- Header: nombre (sin idiomas, se mueven al about) -->
+    <div id="site-header">
+        <div id="site-name">mokakopa</div>
+    </div>
+
+    <!-- About overlay (velo) -->
+    <div id="about-overlay" class="hidden" role="dialog" aria-modal="true" aria-labelledby="about-title">
+        <div id="about-content">
+            <h2 id="about-title"></h2>
+            <p class="about-subtitle"></p>
+            <div id="about-text"></div>
+            <div id="about-switch">
+                <span class="active" data-view="statement">Statement</span>
+                <span data-view="cv">CV</span>
+            </div>
+            <div class="lang-switch"></div>
+            <div id="about-contact"></div>
+            <div class="about-footer"></div>
+        </div>
+        <button id="close-about" aria-label="cerrar">×</button>
+    </div>
+
+    <!-- Menú de proyectos (abajo izquierda) -->
+    <!-- #menu: todos los links con blend mode difference -->
+    <nav id="menu"></nav>
+    <!-- #menu-active: solo el link activo, sin blend mode, encima -->
+    <nav id="menu-active"></nav>
+
+    <!-- Contenedor de proyectos -->
+    <main id="projects-container"></main>
+
+    <!-- Script principal -->
+    <script type="module" src="js/main.js"></script>
+
+</body>
+</html>
