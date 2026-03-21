@@ -227,10 +227,6 @@
           "titulo": " Arte y actividad. Estrategias interactivas para educar en el arte. MoMA"
         },
         {
-          "fecha": "2018",
-          "titulo": "Grado Superior de tècniques escultòriques. Escola Massana. Barcelona"
-        },
-        {
           "fecha": "2015",
           "titulo": " Grado Superior Técnicas aplicadas al Muro. Escola Massana. Barcelona"
         },
@@ -285,39 +281,71 @@
       "nombreCAT": "Exposicions i esdeveniments col·lectius",
       "items": [
         {
-          "fecha": "2024",
-          "titulo": "Nubes nacen negras. Taller 131. Barcelona"
+          "fecha": "2025",
+          "titulo": "El picnic. Tinta Invisible Editions. Barcelona."
         },
         {
           "fecha": "2023",
           "titulo": "Placenta. Grau-Garriga Centre d'Art textil contemporani. Sant Cugat del Vallès"
         },
         {
+          "fecha": "2022",
+          "titulo": "La forma del vers. Taller 131, Barcelona."
+        },
+        {
           "fecha": "2021",
-          "titulo": "Triennal Memento Mori. Xefo Art Gallery. Barcelona"
+          "titulo": "Triennal Memento Mori. Xefo Art Gallery (Barcelona) Kampus Hybernská (Praga) La trampa gráfica (México)"
         },
         {
           "fecha": "2021",
           "titulo": "Etching and engraving. Barn Gallery. Wingfield"
         },
         {
+          "fecha": "2021",
+          "titulo": "A porch on mars. Galería L’Etang d’Art. Bages"
+        },
+        {
+          "fecha": "2021",
+          "titulo": "The living stone. Alexander’s Gallery. Barcelona.  "
+        },
+        {
+          "fecha": "2021",
+          "titulo": "Horitzons. Galería Fort. Cadaquès. "
+        },
+        {
+          "fecha": "2021",
+          "titulo": "Talent Creatiu i Empresa. Ceràmiques Marcó. Girona"
+        },
+        {
+          "fecha": "2021",
+          "titulo": "Botánica i creació artística. HerbArt. Instituto Botánico. Barcelona."
+        },
+        {
+          "fecha": "2019",
+          "titulo": "Jardín Mutante. Cadáver exquisito. Barcelona"
+        },
+        {
+          "fecha": "2019",
+          "titulo": "La Cama del Amor. Espai Tundra. Barcelona"
+        },
+        {
           "fecha": "2018",
-          "titulo": "Colectiva d'estiu. Galeria Espai B. Barcelona"
+          "titulo": "On el verb s’adorm. Edifici Freixas. Hospitalet. "
         },
         {
           "fecha": "2017",
-          "titulo": "MFA Graduate Show. San Francisco Art Institute"
+          "titulo": "Thamer. Casa Viçens Piera. Barcelona"
         },
         {
-          "fecha": "2015",
-          "titulo": "BFA Thesis Exhibition. California College of the Arts. San Francisco"
+          "fecha": "2017",
+          "titulo": "Poiesis. La Colectiva. Barcelona"
         }
       ]
     }
   ],
   "contacto": {
     "nombre": "Monica Kopatschek (San Francisco, 1993)",
-    "email": "monicakopatschek@gmail.com",
+    "email": "mokakopa@gmail.com",
     "instagram": "@mokakopa"
   }
 }
