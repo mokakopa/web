@@ -129,7 +129,7 @@
           "El documental que es pot visitar en aquest enllaç constitueix una finestra al procés creatiu d'El teatro de las Plantas i mostra pas a pas el procés de l'aiguafort sobre coure:",
           "<a href=\"https://youtu.be/LweaiI0Q3ks\">Documental El teatro de las plantas</a>"
         ],
-        "imgCount":11
+        "imgCount": 11
       }
     ],
     [
@@ -160,7 +160,6 @@
         "imgCount": 19
       }
     ],
-    
     [
       "porSiglos",
       {
@@ -224,16 +223,20 @@
       "nombreCAT": "Educació Acadèmica",
       "items": [
         {
-          "fecha": "2017",
-          "titulo": "MFA in Fine Arts. San Francisco Art Institute"
+          "fecha": "2020",
+          "titulo": " Arte y actividad. Estrategias interactivas para educar en el arte. MoMA"
+        },
+        {
+          "fecha": "2018",
+          "titulo": "Grado Superior de tècniques escultòriques. Escola Massana. Barcelona"
         },
         {
           "fecha": "2015",
-          "titulo": "BFA in Painting and Drawing. California College of the Arts, San Francisco"
+          "titulo": " Grado Superior Técnicas aplicadas al Muro. Escola Massana. Barcelona"
         },
         {
-          "fecha": "2012",
-          "titulo": "Erasmus exchange. Facultat de Belles Arts, Universitat de Barcelona"
+          "fecha": "2014 – actualidad",
+          "titulo": "Bellas Artes. Universidad de Barcelona (UB)"
         }
       ]
     },
@@ -273,6 +276,10 @@
         {
           "fecha": "2019",
           "titulo": "Y otros cuentos. Galeria Àngels. Barcelona"
+        },
+        {
+          "fecha": "2023",
+          "titulo": ""
         }
       ]
     },
